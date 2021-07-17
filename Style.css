@@ -1,0 +1,236 @@
+h1, h2, h3, h4, h5, h6, li {
+	margin:0;
+}
+body {
+	background-color: #000000;
+	margin-left: 0px;
+	margin-top: 1px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	color: #FFFFFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+a {
+	color: #FFCC00;
+	text-decoration: underline;
+}
+a:hover {
+	text-decoration: none;
+}
+.slogan {
+	font-family: Tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 18px;	
+	color: #000000;
+}
+.title {
+	padding-left: 0px;
+	font-family: Arial;
+	font-size: 31px;
+	font-weight: normal;
+	color: #000000;
+}
+.copyright {
+	border: 0px;
+	height: 1px;
+	width: 1px;
+}
+.space {
+	line-height: 15px;	
+}
+a.navbar {
+	font-family: Tahoma;
+	font-size: 10px;
+	text-decoration: underline;
+	color: #FFCC00;
+	font-weight: normal;
+}
+a.navbar:hover {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #FFCC00;
+	font-weight: normal;
+	text-decoration: none;
+}
+a.navbar2 {
+	font-family: Tahoma;
+	font-size: 12px;
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: normal;
+}
+a.navbar2:hover {
+	font-family: Tahoma;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: underline;
+	font-weight: normal;
+}
+a.navbar3 {
+	font-size: 12px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a.navbar3:hover {
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFCC00;
+	text-decoration: none;
+}
+a.navbar4 {
+	font-size: 10px;
+	font-weight: normal;
+	text-decoration: underline;
+	color: #FFCC00;
+}
+a.navbar4:hover {
+	font-size: 10px;
+	font-weight: normal;
+	color: #FFCC00;
+	text-decoration: none;
+}
+a.navbar5 {
+	font: Tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #FFFF00;
+}
+a.navbar5:hover {
+	font: Tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFFF00;
+	text-decoration: underline;
+}
+a.navbar6 {
+	font: Tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	text-decoration: none;
+	color: #FDFD67;
+}
+a.navbar6:hover {
+	font: Tahoma;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FDFD67;
+	text-decoration: underline;
+}
+.txt-1 {
+	font: Arial;
+	font-weight: bold;
+	font-size: 15px;
+	line-height: 18px;	
+	color: #FFFFFF;
+}
+.txt-2 {
+	font-size: 12px;
+	line-height: 17px;	
+	color: #FFFFFF;
+}
+.txt-3 {
+	font-size: 11px;
+	line-height: 18px;	
+	color: #000000;
+}
+.txt-4 {
+	padding-left: 15px;
+	font: Arial;
+	font-size: 13px;	
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.txt-5 {
+	padding-left: 0px;
+	font-size: 21px;
+	line-height: 25px;
+	font-weight: bold;	
+	color: #115203;
+}
+.txt-6 {
+	font: Tahoma;
+	font-size: 21px;
+	line-height: 18px;
+	font-weight: normal;	
+	color: #FFCC00;
+}
+.txt-7 {
+	padding-left:15px;
+	font: Arial;
+	font-size: 14px;
+	line-height: 15px;
+	font-weight: bold;	
+	color: #FFFFFF;
+}
+.txt-8 {
+	font: Arial;
+	font-size: 12px;
+	font-weight: bold;	
+	color: #FFFFFF;
+}
+.head-1 {
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.head-2 {
+	font: Arial;
+	font-size: 16px;
+	font-weight: bold;	
+	color: #FFFFFF;
+}
+.head-3 {
+	font: Arial;
+	font-size: 20px;
+	font-weight: normal;	
+	color: #FF9900;
+}
+.head-4 {
+	font: Arial;
+	font-size: 21px;
+	font-weight: normal;	
+	color: #FFFFFF;
+}
+.head-5 {
+	font: Arial;
+	font-size: 17px;
+	font-weight: bold;	
+	color: #FFFFFF;
+}
+.style1 {
+	color: #FF9900;
+	font-weight: bold;
+	font-size: 12px;
+}
+.style2 {
+	color: #FFFFFF;
+}
+.style3 {
+	color: #C23200;
+	font-weight: bold;
+}
+.style4 {
+	font-size: 14px;
+}
+.style5 {
+	font-size: 17px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.style6 {
+	font-size: 15px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.style7 {
+	color: #FFCC00;
+	font-weight: bold;
+}
+.style8 {
+	color: #AEEB6D;
+}
